@@ -1,0 +1,7 @@
+django>=4.2
+psycopg2>=2.9
+openai>=1.10
+python-dotenv>=1.0
+torch>=2.0
+transformers>=4.35
+scikit-learn>=1.3
